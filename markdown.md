@@ -3,16 +3,16 @@
 hello guys, I am sumit sisodiya citizen of india as live in jaisalmer city.And I have visited all over jaisalmer and done my graduation in ARTs as history  , and deeper knowledge of history of JAISALMER.
 ## PROFESSION 
 I WORK AS AUTHENTIC CERTIFIED GUIDE , FACILITY I WILL PROVIDE:
-	-HISTORY OF PLACE <br>
-	-WHY EXIST ? <br>
-        -WHY THIS PLACE MAKE UNIQUE JAISALMER <br>
-        -HISTORY OF GOLDEN STONE 
+	- HISTORY OF PLACE 
+	- WHY EXIST ? 
+        - WHY THIS PLACE MAKE UNIQUE JAISALMER 
+        - HISTORY OF GOLDEN STONE 
 ## PLACE 
- -PATWA HAVELI <br>
- -GOLDEN FORT  <br>
- -NATHMAL HAVELI <br>
- -SAM AND SENDUMS <br>
- -KULDHARA AND KHABA 
+ - PATWA HAVELI 
+ - GOLDEN FORT  
+ - NATHMAL HAVELI 
+ - SAM AND SENDUMS 
+ - KULDHARA AND KHABA 
  
 # PROFESSONAL ETHICS 
  |SEQUENCE NO.|     RULE             |
