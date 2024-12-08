@@ -20,7 +20,8 @@ I WORK AS AUTHENTIC CERTIFIED GUIDE , FACILITY I WILL PROVIDE:
  |  1         |SECURITY OF CUSTOMER  |
  |  2         |ID CARD ALWAYS PRESENT|
 # IMAGE AND DESCRIPTION
-![image personal](https://www.thestatesman.com/wp-content/uploads/2019/04/honey-singh.png)      
+<img src="[image-url](https://www.thestatesman.com/wp-content/uploads/2019/04/honey-singh.png)" alt="description" width="200" height="100">
+     
 >[!NOTE]
 >I AM PROFESSONAL GUIDE AND SAFTEY AND SECURITY OF CUSTOMER IS FIRST PRIORITY AND GUARNTEE 
 
