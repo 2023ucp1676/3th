@@ -2,7 +2,7 @@
 # ABOUT ME
 hello guys, I am sumit sisodiya citizen of india as live in jaisalmer city.And I have visited all over jaisalmer and done my graduation in ARTs as history  , and deeper knowledge of history of JAISALMER.
 ## PROFESSION 
-I WORK AS AUTHENTIC CERTIFIED GUIDE , FACILITY I WILL PROVIDE:
+I WORK AS AUTHENTIC CERTIFIED GUIDE , FACILITY I WILL PROVIDE: <br>
 	- HISTORY OF PLACE 
 	- WHY EXIST ? 
         - WHY THIS PLACE MAKE UNIQUE JAISALMER 
